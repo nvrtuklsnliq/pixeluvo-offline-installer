@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Photo+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Photo+Editing-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Pixeluvo Free Installer** — Pixeluvo is a photo editing application for Windows and Linux with layer support, non-destructive adjustment layers, effects, and RAW processing. Works without internet access, no account required. Full offline installation.
+**💻 Pixeluvo Free Installer** — Pixeluvo is a photo editing application for Windows and Linux focused on providing professional-level editing tools with a straightforward, accessible interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Pixeluvo
 
-Pixeluvo is a photo editing application for Windows and Linux with layer support, non-destructive adjustment layers, effects, and RAW processing. It aims to provide Photoshop-like functionality at a more accessible price point.
+Pixeluvo is a photo editing application for Windows and Linux focused on providing professional-level editing tools with a straightforward, accessible interface. Features include layers, masks, adjustment tools, retouching brushes, and support for RAW files. Pixeluvo targets photographers who want capable editing without the complexity and cost of Photoshop.
 
 ---
 
 ## ❌ Problem: Pixeluvo is hard to access
 
-- **Limited Platform Coverage** — No macOS version; Linux support less common in photo software
-- **Small Community** — Limited tutorials and resources
-- **Competition** — GIMP is free with similar layer-based editing; Affinity Photo offers more for similar price
-- **Development Pace** — Updates arrive less frequently than major photo editors
+- **Limited Platform** — Windows and Linux; no macOS version
+- **Community Size** — Much smaller user base than major photo editors
+- **Feature Depth** — Some advanced features less polished than Photoshop or Affinity Photo
+- **Development Pace** — Update frequency lower than actively developed alternatives
 
 ---
 
@@ -121,7 +121,7 @@ Pixeluvo is a photo editing application for Windows and Linux with layer support
 
 ---
 
-**Pixeluvo Free Installer** — Pixeluvo is a photo editing application for Windows and Linux with layer support, non-destructive adjustment layers, effects, and RAW processing. Install without internet connection today!
+**Pixeluvo Free Installer** — Pixeluvo is a photo editing application for Windows and Linux focused on providing professional-level editing tools with a straightforward, accessible interface. Install without internet connection today!
 
 <div align="center">
 
